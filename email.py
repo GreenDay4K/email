@@ -59,15 +59,3 @@ except KeyboardInterrupt:
 except smtplib.SMTPAuthenticationError:
     print '\n[!] The username or password you entered is incorrect.'
     sys.exit()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
