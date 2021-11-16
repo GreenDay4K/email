@@ -1,3 +1,7 @@
+#!/usr/bin/python 2.7
+#E-bomber
+#Free : Aimbot
+
 import os
 import smtplib
 import getpass
@@ -55,3 +59,15 @@ except KeyboardInterrupt:
 except smtplib.SMTPAuthenticationError:
     print '\n[!] The username or password you entered is incorrect.'
     sys.exit()
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
