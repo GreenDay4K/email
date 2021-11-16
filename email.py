@@ -51,7 +51,7 @@ try:
     server.quit()
     print ("\n Done !!!")
 except KeyboardInterrupt:
-    print '[-] Canceled'
+    print "([-] Canceled")
     sys.exit()
 except smtplib.SMTPAuthenticationError:
     print ("\n[!] The username or password you entered is incorrect.")
