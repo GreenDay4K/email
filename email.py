@@ -9,9 +9,6 @@ import sys
 import time
 
 os.system("clear")
-print '########################'
-print '#   Email - Aimbot     #      [Versions 1.0] '
-print '########################'
 
 print '    '
 email = raw_input('Attacker Gmail Address : ')
